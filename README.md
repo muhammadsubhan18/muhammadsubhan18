@@ -50,23 +50,22 @@ I'm a passionate Web Developer who enjoys building modern, responsive, and user-
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subhantv305-ship-it&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadsubhan18&show_icons=true&theme=midnight-purple&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhantv305-ship-it&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsubhan18&layout=compact&theme=midnight-purple&hide_border=true" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=subhantv305-ship-it&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+<img width="75%" src="https://streak-stats.demolab.com/?user=muhammadsubhan18&theme=midnight-purple&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subhantv305-ship-it/subhantv305-ship-it/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/muhammadsubhan18/muhammadsubhan18/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -79,16 +78,3 @@ I'm a passionate Web Developer who enjoys building modern, responsive, and user-
 **Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>--
-**muhammadsubhan18/muhammadsubhan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
