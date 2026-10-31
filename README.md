@@ -34,6 +34,16 @@ I'm a passionate Web Developer who enjoys building modern, responsive, and user-
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&theme=dark" />
+
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
 </div>
 
 ---
