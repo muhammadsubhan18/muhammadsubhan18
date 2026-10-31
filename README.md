@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!# 💜 Muhammad Subhan
+ 💜 Muhammad Subhan
 
 <div align="center">
 
