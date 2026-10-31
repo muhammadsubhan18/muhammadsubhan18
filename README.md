@@ -38,21 +38,6 @@ I'm a passionate Web Developer who enjoys building modern, responsive, and user-
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadsubhan18&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsubhan18&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=muhammadsubhan18&theme=midnight-purple&hide_border=true" />
-
-</div>
----
-
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
