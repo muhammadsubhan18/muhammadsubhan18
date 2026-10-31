@@ -34,14 +34,6 @@ I'm a passionate Web Developer who enjoys building modern, responsive, and user-
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&theme=dark" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
 </div>
 
 ---
@@ -59,16 +51,6 @@ I'm a passionate Web Developer who enjoys building modern, responsive, and user-
 <img width="75%" src="https://streak-stats.demolab.com/?user=muhammadsubhan18&theme=midnight-purple&hide_border=true" />
 
 </div>
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/muhammadsubhan18/muhammadsubhan18/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
 ---
 
 <div align="center">
